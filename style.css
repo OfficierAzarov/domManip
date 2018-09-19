@@ -1,0 +1,42 @@
+body {
+    background-image: url("/home/wilder/WCS/Code/domManip/vendors/img/fastfood.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+#clients-container {
+    margin: 15% auto 1% auto;
+    width: 55%;
+    text-align: center;
+
+}
+
+#filters-container {
+    margin: 5% auto;
+    width: 55%;
+    text-align: center;
+}
+
+#filters-container button {
+    background-color: rgba(9, 255, 0, 0.198);
+    border: 0px;
+    font-size: 1.3em;
+    color: #fff;
+    padding: 3%;
+    border-radius: 1%;
+    cursor: pointer;
+}
+
+p {
+    color: #fff;
+    font-size: 1.8em;
+    background-color: rgba(255, 0, 119, 0.198);
+    border-radius: 1%;
+    padding: 2%;
+
+}
+
+.client-penible {
+    color: red;
+}
